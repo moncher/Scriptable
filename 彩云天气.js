@@ -1,4 +1,4 @@
-const env = importModule('Env-lsp.js')
+const env = importModule('彩云天气.js')
 //------------------------------------------------
 // 配置区
 env.configs.previewSize = "Medium" // 预览大小【小：Small，中：Medium，大：Large】
